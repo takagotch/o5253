@@ -9,6 +9,8 @@ https://auri.ga/5000generator/
 #### transparention of background image 
 https://www.bannerkoubou.com/photoeditor/transparent/
 
+https://www.iloveimg.com/ja
+
 https://www.peko-step.com/tool/alphachannel.html
 
 
