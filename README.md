@@ -30,7 +30,12 @@ https://imglarger.com/Ja
 源ノ角ゴシック・源ノ明朝...
 ```
 
-```
+```txt
+./setting
+[]
+#e324ed
+100px
+
 ```
 
 ```
