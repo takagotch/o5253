@@ -40,9 +40,49 @@ https://imglarger.com/Ja
 ```
 
 ```
+// jp
+Arial Unicode MS
+Microsoft YaHei
+ＭＳ ゴシック
+ＭＳ 明朝
+
+BIZ UDゴシック
+BIZ UD明朝 Medium
+
+
+UD デジタル 教科書体 N-B
+UD デジタル 教科書体 N-R
+
+
+メイリオ
+Malgun Gothic Semilight
+游ゴシック Light
+游ゴシック Medium
+游明朝 Demibold
+游明朝 Light
+
+
+
+
 ```
 
 ```
+// us
+
+MS,MicroSoft,ＭＳ
+
+Gothic,ゴシック,
+メイリオ,Meifyo
+
+明朝
+
+UD,UniversalDesign,
+
+
+
+
+
+
 ```
 
 
