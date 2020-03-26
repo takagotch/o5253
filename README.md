@@ -41,6 +41,7 @@ https://imglarger.com/Ja
 
 ```
 // jp
+//
 Arial Unicode MS
 Microsoft YaHei
 ＭＳ ゴシック
@@ -48,11 +49,8 @@ Microsoft YaHei
 
 BIZ UDゴシック
 BIZ UD明朝 Medium
-
-
 UD デジタル 教科書体 N-B
 UD デジタル 教科書体 N-R
-
 
 メイリオ
 Malgun Gothic Semilight
@@ -68,14 +66,14 @@ Malgun Gothic Semilight
 
 ```
 // us
-
+// 1
 MS,MicroSoft,ＭＳ
-
+// 2
 Gothic,ゴシック,
 メイリオ,Meifyo
-
+// 3
 明朝
-
+// 4
 UD,UniversalDesign,
 
 
